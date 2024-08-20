@@ -51,7 +51,8 @@ for i in range(len(x)):
 
 ## Output:
 ![best fit line](sam.png)
-![output](./output.png)
+![Screenshot 2024-08-20 111254](https://github.com/user-attachments/assets/4c0efd6d-e50a-43d9-bdd0-fbd4cbe8b7c0)
+
 
 
 ## Result:
